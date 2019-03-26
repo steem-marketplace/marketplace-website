@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'league_spartanbold';
+    src: url('../fonts/leaguespartan-bold-webfont.woff2') format('woff2'),
+         url('../fonts/leaguespartan-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.branding {
+    color: #FFF;
+    font-family: 'league_spartanbold';
+    font-size: 27px;
+    font-weight: normal;
+}
+
+.branding.sticky-logo,
+.branding.sticky-logo:hover {
+    color: #696df3;
+}
+
+.branding:hover {
+    color: #FFF;
+}
