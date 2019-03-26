@@ -449,7 +449,8 @@ body.admin-bar .fixed-top {
 
 .banner {
     background: #696DF3;
-    padding: 300px 0 250px;
+    min-height: 100vh;
+    padding: 300px 0 0;
 }
 
 .banner h1 {
