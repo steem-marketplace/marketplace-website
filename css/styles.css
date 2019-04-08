@@ -22,3 +22,11 @@
 .branding:hover {
     color: #FFF;
 }
+
+.navbar.solid-background {
+    background-color: #696DF3;
+}
+
+.navbar.solid-background .branding.sticky-logo {
+    color: #FFF;
+}
